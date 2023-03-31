@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ahmad Alkaf
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Electron.
+- 🌱 I’m currently learning Angular / NodeJs.
 - 💞️ I’m looking to collaborate on Web projects.
-- 📫 My email: ahmad.medoo.700@gmail.com
+- 📫 My email: ahmad.alkaf.ahk@gmail.com
 
 <!---
 Ahmad-700/Ahmad-700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
