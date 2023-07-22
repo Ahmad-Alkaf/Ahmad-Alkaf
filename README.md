@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ahmad Alkaf
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Angular / NodeJs.
 - 💞️ I’m looking to collaborate on Web projects.
 - 📫 My email: ahmad.alkaf.ahk@gmail.com
 
