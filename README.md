@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ahmad Alkaf
-- 👀 I’m a software engineer interested in Web Development.
+- 👋 Hi, I’m Ahmad Alkaf.
+- 👀 I’m a Software Engineer interested in Web Development.
 - 💞️ I’m looking to collaborate on Web projects.
-- 📫 My email: ahmad.alkaf.ahk@gmail.com
+- 📫 My email: ahmad.alkaf.ahk@gmail.com.
 
 <!---
 Ahmad-700/Ahmad-700 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
