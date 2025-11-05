@@ -19,8 +19,8 @@ Hello! I'm Ahmad Alkaf, a passionate Software Engineer with a strong focus on We
 
 ### 📈 GitHub Stats
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Alkaf&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Alkaf&layout=compact&theme=radical)
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Alkaf&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Alkaf&layout=compact&theme=transparent)
 
 ### 🤝 Let's Connect!
 
