@@ -26,10 +26,10 @@ Lecture-schedule construction web app with backtracking-algorithm auto-generatio
 **[FileUtility](https://github.com/Ahmad-Alkaf/FileUtility)** &nbsp;·&nbsp; `C#` `.NET`
 File-and-directory manipulation library for .NET Framework with native async / await support and automatic retries for transient failures (network drives, cloud-mounted storage).
 
-### Personal builds
+### Side projects
 
 **[Certificate Management Platform](https://github.com/EduCerti/certificate-platform)** &nbsp;·&nbsp; `TanStack Start` `TypeScript` `Better Auth` `Prisma` `PostgreSQL` `Playwright` `Vitest` `Docker`
-Multi-tenant SaaS for organizations to issue training certificates with JSON-configured templates and QR-code verification. Organization-isolated data for courses, participants, trainers, and certificates. Bilingual Arabic / English with RTL via Paraglide JS. Test coverage with Playwright (end-to-end) and Vitest (unit).
+Multi-tenant SaaS for organizations to issue training certificates with JSON-configured templates and QR-code verification. Organization-isolated data for courses, participants, trainers, and certificates. Bilingual Arabic / English with RTL via Paraglide JS. Test coverage with Playwright (end-to-end) and Vitest (unit). **Built with a 3-person team.**
 
 **[QRForge](https://github.com/Ahmad-Alkaf/qr-generator)** &nbsp;·&nbsp; `Next.js` `TypeScript` `Clerk` `Prisma` `PostgreSQL`
 QR-code generator with two modes: Direct (content encoded straight into the QR) and Tracked (short-URL redirect with scan analytics covering geo and user agent, plus editable destinations). Eight QR types (URL, Wi-Fi, vCard, Email, SMS, WhatsApp, PDF, plain text). Three download formats (PNG, SVG, PDF) generated client-side.
