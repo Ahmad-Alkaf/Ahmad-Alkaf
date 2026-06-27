@@ -13,7 +13,7 @@ I like turning messy real-world problems into shipped products — from a system
 **[ACTS — Autism Children Technical System](https://github.com/Ahgaff-Level4/ACTS)** &nbsp;·&nbsp; `NestJS` `Angular` `MySQL` `Docker`
 Final-year capstone deployed at the Hadramout Foundation for Autism. Goal-assignment, progress-tracking, and evaluation tooling for trainers, with weekly / monthly / annual reports for parents. Bilingual Arabic / English, role-tailored vertical activity timeline, and database backup / restore. **Won the Gold Medal among 174 international projects at the RIPC Poster Competition (Feb 2023).**
 
-**[Laptop POS](https://github.com/laravel-aaa/Laptop-POS)** &nbsp;·&nbsp; ⭐ 39 &nbsp;·&nbsp; `Laravel` `React` `TypeScript` `MySQL` `AWS` `Paddle`
+**[Laptop POS](https://github.com/laravel-aaa/Laptop-POS)** &nbsp;·&nbsp; <a href="https://github.com/laravel-aaa/Laptop-POS/stargazers"><img alt="⭐ 39 stars" src="https://img.shields.io/github/stars/laravel-aaa/Laptop-POS?style=social" /></a> &nbsp;·&nbsp; `Laravel` `React` `TypeScript` `MySQL` `AWS` `Paddle`
 Cloud point-of-sale platform with subscription billing (Paddle), three paid tiers plus a free tier, multi-role accounts (Cashier / Maintainer / Owner), and a responsive UI across all devices and browsers. AWS infrastructure: S3, EC2, RDS, CodePipeline.
 
 **[Schedule Builder](https://github.com/Ahmad-Alkaf/Schedule-Builder)** &nbsp;·&nbsp; `Angular` `ASP.NET` `C#` `MSSQL`
