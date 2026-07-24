@@ -54,4 +54,4 @@ Pick Windows apps from the WinGet catalog on the web; the server generates a cus
 
 **Background** — B.Sc. Computer Information Systems, Al-Ahgaff University (GPA 4.12 / 5; Excellence Certificate for the second-highest GPA in the cohort). Arabic (native), English (fluent).
 
-📫 **[Ahmad.Alkaf.ahk@gmail.com](mailto:Ahmad.Alkaf.ahk@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/Ahmad-Alkaf)**
+📫 **[Ahmad.Alkaf.ahk@gmail.com](mailto:Ahmad.Alkaf.ahk@gmail.com)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/Ahmad-Alkaf)** &nbsp;·&nbsp; **[Portfolio](https://ahmad.alkaf.org)**
