@@ -1,6 +1,6 @@
 # Ahmed Alkaf
 
-**Software Engineer.** Four years shipping production systems with TypeScript, React, Next.js, Node.js, tRPC, Prisma, and PostgreSQL — across QA automation, full-stack web platforms, and DevOps at TechTroniX.
+**Software Engineer.** Four years shipping production systems with TypeScript, React, Next.js, Node.js, tRPC, Prisma, and PostgreSQL — across QA automation, full-stack web platforms, and DevOps.
 
 I like turning messy real-world problems into shipped products — from a system used daily by an autism-care charity to a cloud POS with subscription billing.
 
